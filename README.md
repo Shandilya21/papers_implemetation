@@ -16,11 +16,9 @@ Implementation of Selected Paper Published in Conferences such as ACL, NeurIPS, 
 A end-to-end sequence to sequence LSTM based model tp perform tasks such as text generation, basic chatbots, machine translation, etc.
 ```
 python seq2seq.py --gpuid 0 --type bi
-
 ```
 A evaluation and graph visualization on tensorboard iby using:
 ```
 tensorboard --logdir logs
-
 ```
   
